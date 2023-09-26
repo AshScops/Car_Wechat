@@ -1,0 +1,13 @@
+!#
+D:\OtherThings\GameWork\Wechat_Car\Export\webgl\StreamingAssets\AssetBundles\WebGL\audio_e3142a30f916cde1badbd0e4437f4086
+D:\OtherThings\GameWork\Wechat_Car\Export\webgl\StreamingAssets\AssetBundles\WebGL\img_8ef77996079da6073ee55b6205d1a82b
+D:\OtherThings\GameWork\Wechat_Car\Export\webgl\StreamingAssets\AssetBundles\WebGL\json_43bd3d7936da95c95d15bf7b843b0719
+D:\OtherThings\GameWork\Wechat_Car\Export\webgl\StreamingAssets\AssetBundles\WebGL\prefab_0f502084aff67fa08b103a356159dfa7
+D:\OtherThings\GameWork\Wechat_Car\Export\webgl\StreamingAssets\AssetBundles\WebGL\ui_1b2742007ca8e77712760fdbaa6ecf6e
+D:\OtherThings\GameWork\Wechat_Car\Export\webgl\StreamingAssets\AssetBundles\WebGL\WebGL
+!D:\OtherThings\GameWork\Wechat_Car\Assets\StreamingAssets\AssetBundles\WebGL\audio_7d2fc1ae4361205eab342dfca124ab54
+!D:\OtherThings\GameWork\Wechat_Car\Assets\StreamingAssets\AssetBundles\WebGL\img_8ef77996079da6073ee55b6205d1a82b
+!D:\OtherThings\GameWork\Wechat_Car\Assets\StreamingAssets\AssetBundles\WebGL\json_43bd3d7936da95c95d15bf7b843b0719
+!D:\OtherThings\GameWork\Wechat_Car\Assets\StreamingAssets\AssetBundles\WebGL\prefab_0f502084aff67fa08b103a356159dfa7
+!D:\OtherThings\GameWork\Wechat_Car\Assets\StreamingAssets\AssetBundles\WebGL\ui_1b2742007ca8e77712760fdbaa6ecf6e
+!D:\OtherThings\GameWork\Wechat_Car\Assets\StreamingAssets\AssetBundles\WebGL\WebGL

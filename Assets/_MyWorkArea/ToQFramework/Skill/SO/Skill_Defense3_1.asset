@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eeff0ad8fe7d43c4891b05338dfbac07, type: 3}
+  m_Name: Skill_Defense3_1
+  m_EditorClassIdentifier: 
+  Name: "\u5168\u526F\u6B66\u88C5"
+  Cost: 300
+  Img: {fileID: 21300000, guid: 570018e27fa24c34091ab0bbdcff209b, type: 3}
+  Description: "\u751F\u547D\u503C\u518D\u989D\u5916\u63D0\u53475"
+  SkillEffects:
+  - rid: 1219981406286643210
+  IsNeedAllPreSkill: 0
+  PreSkill:
+  - {fileID: 11400000, guid: 502f89ca38deab84b800804d708ffb35, type: 2}
+  references:
+    version: 2
+    RefIds:
+    - rid: 1219981406286643210
+      type: {class: GetExtraHp, ns: QFramework.Car, asm: Assembly-CSharp}
+      data:
+        extraHp: 5

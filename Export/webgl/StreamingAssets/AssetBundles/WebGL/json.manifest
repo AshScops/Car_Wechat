@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3947704917
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 43bd3d7936da95c95d15bf7b843b0719
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 1
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Json/CommonPowers.json
+- Assets/Art/Json/Buffs.json
+- Assets/Art/Json/Items.json
+- Assets/Art/Json/SpecialPowers.json
+- Assets/Art/Json/Achieve.json
+Dependencies: []

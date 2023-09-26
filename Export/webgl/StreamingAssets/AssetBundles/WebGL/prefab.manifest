@@ -1,0 +1,109 @@
+ManifestFileVersion: 0
+CRC: 4171112438
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 774d2a3bc16d350eb3caf6a03cf0b766
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b3973b07cb20a4db639207ed85faf667
+HashAppended: 1
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 818602b6201f5184fbdbbcb3d7d9ce42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 636aa3f550a4419408c157d3f0d9adbf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aa61a98381bda344f9968960dd913064, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3c3b2e3cda83bb14cb2500a82c326d43, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7d20c1b02cbb16542a4dde0d82651338, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fc6d3e8bea9539742b5a0b853228d041, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 04d0fd81e79e60b48a1a298f7fb1a319, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 27e52c27dd15c834d932d5e67c41391a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9205bc1bbacc90040a998067b5643d16, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b700a82a34594084ba6f538494f6eb07, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c466ae210ee1acd4298e1a98d894b2be, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9385d9a4b15556c4f916e68837073d6d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 04956f85cceace7499d1694755819caf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0d51f3a7c41ab0346b49ae50d456bece, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4a55e91e24206934fadb2654ee30bac6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: CFXRRuntime
+  ClassName: CartoonFX.CFXR_Effect/AnimatedLight
+- AssemblyName: CFXRRuntime
+  ClassName: CartoonFX.CFXR_Effect/CameraShake
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.RectOffset
+Assets:
+- Assets/Art/Prefab/FX/Ammo Hit.prefab
+- Assets/Art/Prefab/Shotgun.prefab
+- Assets/Art/Prefab/Shotgun Ammo.prefab
+- Assets/Art/Prefab/GameController.prefab
+- Assets/Art/Prefab/Player.prefab
+- Assets/Art/Prefab/Exp.prefab
+- Assets/Art/Prefab/Pistol Ammo.prefab
+- Assets/Art/Prefab/Uzi Ammo.prefab
+- Assets/Art/Prefab/Uzi.prefab
+- Assets/Art/Prefab/FX/Car Destory.prefab
+- Assets/Art/Prefab/RocketLauncher.prefab
+- Assets/Art/Prefab/FX/Gun Fire.prefab
+- Assets/Art/Prefab/Enemy.prefab
+- Assets/Art/Prefab/Pistol.prefab
+- Assets/Art/Prefab/FX/Shock Wave.prefab
+- Assets/Art/Prefab/Rocket Ammo.prefab
+- Assets/Art/Prefab/FX/Rocket Explosion.prefab
+Dependencies: []
