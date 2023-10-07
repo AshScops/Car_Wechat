@@ -1,4 +1,5 @@
 using QFramework.Car;
+using QFramework.WX;
 using System;
 using System.Collections;
 using System.Collections.Generic;
@@ -21,9 +22,17 @@ namespace QFramework.Custom
 
         private IEnumerator Start()
         {
-            Debug.Log("NetManager Init");
+            //Debug.Log("NetManager Init");
+
+            if (!SimulateWXLoadWay)
+                m_resLoadWay = new ResLoadWayWithResources();
+            else
+                m_resLoadWay = new ResLoadWayInWX();
+
+            yield return GetABNameList();
             yield return ResKit.InitAsync();
-            m_resLoadWay = new ResLoadWayWithResources();
+            ResFactory.AddResCreator(new MyServerResCreator());
+
             NetInitDone = true;
             GameController.Instance.Init();
         }

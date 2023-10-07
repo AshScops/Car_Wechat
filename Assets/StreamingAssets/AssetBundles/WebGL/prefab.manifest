@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 4171112438
+CRC: 3710139777
 Hashes:
   AssetFileHash:
     serializedVersion: 2
@@ -89,21 +89,21 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: UnityEngine.CoreModule
   ClassName: UnityEngine.RectOffset
 Assets:
-- Assets/Art/Prefab/FX/Ammo Hit.prefab
-- Assets/Art/Prefab/Shotgun.prefab
-- Assets/Art/Prefab/Shotgun Ammo.prefab
-- Assets/Art/Prefab/GameController.prefab
-- Assets/Art/Prefab/Player.prefab
-- Assets/Art/Prefab/Exp.prefab
-- Assets/Art/Prefab/Pistol Ammo.prefab
-- Assets/Art/Prefab/Uzi Ammo.prefab
-- Assets/Art/Prefab/Uzi.prefab
-- Assets/Art/Prefab/FX/Car Destory.prefab
-- Assets/Art/Prefab/RocketLauncher.prefab
-- Assets/Art/Prefab/FX/Gun Fire.prefab
-- Assets/Art/Prefab/Enemy.prefab
-- Assets/Art/Prefab/Pistol.prefab
-- Assets/Art/Prefab/FX/Shock Wave.prefab
-- Assets/Art/Prefab/Rocket Ammo.prefab
-- Assets/Art/Prefab/FX/Rocket Explosion.prefab
+- Assets/Art/Prefab/FX/Resources/Ammo Hit.prefab
+- Assets/Art/Prefab/Game/Resources/Shotgun.prefab
+- Assets/Art/Prefab/Game/Resources/Shotgun Ammo.prefab
+- Assets/Art/Prefab/Game/Resources/GameController.prefab
+- Assets/Art/Prefab/Game/Resources/Player.prefab
+- Assets/Art/Prefab/Game/Resources/Exp.prefab
+- Assets/Art/Prefab/Game/Resources/Pistol Ammo.prefab
+- Assets/Art/Prefab/Game/Resources/Uzi Ammo.prefab
+- Assets/Art/Prefab/Game/Resources/Uzi.prefab
+- Assets/Art/Prefab/FX/Resources/Car Destory.prefab
+- Assets/Art/Prefab/Game/Resources/RocketLauncher.prefab
+- Assets/Art/Prefab/FX/Resources/Gun Fire.prefab
+- Assets/Art/Prefab/Game/Resources/Enemy.prefab
+- Assets/Art/Prefab/Game/Resources/Pistol.prefab
+- Assets/Art/Prefab/FX/Resources/Shock Wave.prefab
+- Assets/Art/Prefab/Game/Resources/Rocket Ammo.prefab
+- Assets/Art/Prefab/FX/Resources/Rocket Explosion.prefab
 Dependencies: []

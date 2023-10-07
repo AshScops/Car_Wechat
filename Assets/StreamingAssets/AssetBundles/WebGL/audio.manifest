@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 315268885
+CRC: 155231084
 Hashes:
   AssetFileHash:
     serializedVersion: 2
@@ -13,13 +13,13 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Art/Audio_Assets/Special & Powerup (8).mp3
-- Assets/Art/Audio_Assets/Weapon_Shotgun_Reload.mp3
-- Assets/Art/Audio_Assets/Pretty Dungeon LOOP.mp3
-- Assets/Art/Audio_Assets/UI Click 36.mp3
-- Assets/Art/Audio_Assets/You Lose (4).mp3
-- Assets/Art/Audio_Assets/single_shot.mp3
-- Assets/Art/Audio_Assets/Wasteland Combat Loop.mp3
-- Assets/Art/Audio_Assets/Pop (3).mp3
-- Assets/Art/Audio_Assets/Crystal Reward Tick.mp3
+- Assets/Art/Audio_Assets/Resources/Special & Powerup (8).mp3
+- Assets/Art/Audio_Assets/Resources/Weapon_Shotgun_Reload.mp3
+- Assets/Art/Audio_Assets/Resources/Pretty Dungeon LOOP.mp3
+- Assets/Art/Audio_Assets/Resources/UI Click 36.mp3
+- Assets/Art/Audio_Assets/Resources/You Lose (4).mp3
+- Assets/Art/Audio_Assets/Resources/single_shot.mp3
+- Assets/Art/Audio_Assets/Resources/Wasteland Combat Loop.mp3
+- Assets/Art/Audio_Assets/Resources/Pop (3).mp3
+- Assets/Art/Audio_Assets/Resources/Crystal Reward Tick.mp3
 Dependencies: []

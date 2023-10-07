@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 3947704917
+CRC: 3965172284
 Hashes:
   AssetFileHash:
     serializedVersion: 2
@@ -13,9 +13,9 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Art/Json/CommonPowers.json
-- Assets/Art/Json/Buffs.json
-- Assets/Art/Json/Items.json
-- Assets/Art/Json/SpecialPowers.json
-- Assets/Art/Json/Achieve.json
+- Assets/Art/Json/Resources/CommonPowers.json
+- Assets/Art/Json/Resources/Buffs.json
+- Assets/Art/Json/Resources/Items.json
+- Assets/Art/Json/Resources/SpecialPowers.json
+- Assets/Art/Json/Resources/Achieve.json
 Dependencies: []

@@ -83,13 +83,6 @@ namespace QFramework.Custom
 
         public override IEnumerator DoLoadAsync(System.Action finishCallback)
         {
-            if (RefCount <= 0)
-            {
-                OnResLoadFaild();
-                finishCallback();
-                yield break;
-            }
-
             if (AssetBundlePathHelper.SimulationMode)
             {
                 yield return null;
@@ -113,7 +106,6 @@ namespace QFramework.Custom
                     LoadBarCanvas.ShowLoadProgress(request.downloadProgress, targetABName);
                     yield return 0;
                 }
-                LoadBarCanvas.ShowLoadProgress(1, targetABName);
 
                 if (!string.IsNullOrEmpty(request.error))
                 {

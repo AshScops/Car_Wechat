@@ -119,9 +119,9 @@ namespace QFramework
                 var pathPrefix = AssetBundlePathHelper.PathPrefix;
 
                 //魔改
-                //var streamingPath = "https://ashscopsgameserver.fun/StreamingAssets/" + ResDatas.FileName;
-                //Debug.Log("streamingPath:" + streamingPath);
-                //outResult.Add(streamingPath);
+                var streamingPath = "https://ashscopsgameserver.fun/StreamingAssets/" + ResDatas.FileName;
+                Debug.Log("streamingPath:" + streamingPath);
+                outResult.Add(streamingPath);
 
                 //// 未进行过热更
                 //if (AssetBundleSettings.LoadAssetResFromStreamingAssetsPath)
@@ -138,11 +138,12 @@ namespace QFramework
                 //    outResult.Add(pathPrefix + persistentPath);
                 //}
 
-                //foreach (var outRes in outResult)
-                //{
-                //    Debug.Log(outRes);
-                //    yield return AssetBundleSettings.AssetBundleConfigFile.LoadFromFileAsync(outRes);
-                //}
+                //魔改
+                foreach (var outRes in outResult)
+                {
+                    Debug.Log(outRes);
+                    yield return AssetBundleSettings.AssetBundleConfigFile.LoadFromFileAsync(outRes);
+                }
 
                 yield return null;
             }
