@@ -1,3 +1,3 @@
-# QFramework_Car_Wechat
+# Car_Wechat
 
 这是一个使用U3D开发、基于QFramework框架的Rogue微信小游戏，魔改了框架的资源加载方式使其匹配微信小游戏的资源加载要求。
